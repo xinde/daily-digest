@@ -1,4 +1,6 @@
-* [📋 首页](README)
-* [📰 今日资讯](today.md)
-* [📁 历史资讯](history/)
-  * [2026年](history/2026.md)
+<!-- SIDEBAR_START -->
+* [📋 首页](README.md)
+* [📰 资讯目录](posts/)
+  * [2026-04-04](posts/2026-04-04.md)
+  * [2026-04-03](posts/2026-04-03.md)
+<!-- SIDEBAR_END -->
