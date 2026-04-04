@@ -1,6 +1,6 @@
 # 📰 熊哥每日资讯 · 2026-04-04
 
-> 🐻 自动整理 | 更新时间：2026-04-04 09:40
+> 🐻 自动整理 | 更新时间：2026-04-04 09:49
 
 ---
 
@@ -10,19 +10,19 @@
 
 📌 **Show HN: I built a frontpage for personal blogs**
 
-**💬 简介**: Blogosphere 项目——汇聚个人博客最新文章的独立网页平台
+**💬 简介**: Show HN: I built a frontpage for personal blogs
 
-**📝 总结**: 649 分 | 169 条评论，旨在保持个人网站的活力
+**📝 总结**: 652 分 | 169 条评论
 
 **🔗 链接**: https://text.blogosphere.app/
 
 ---
 
-📌 **Artemis II crew take "spectacular" image of Earth**
+📌 **Artemis II crew take “spectacular” image of Earth**
 
-**💬 简介**: 阿尔忒弥斯二号宇航员从太空拍摄了一张令人惊叹的地球照片
+**💬 简介**: Artemis II crew take “spectacular” image of Earth
 
-**📝 总结**: 483 分 | 196 条评论
+**📝 总结**: 494 分 | 201 条评论
 
 **🔗 链接**: https://www.bbc.com/news/articles/ce8jzr423p9o
 
@@ -30,9 +30,9 @@
 
 📌 **Oracle Files H-1B Visa Petitions Amid Mass Layoffs**
 
-**💬 简介**: Oracle 大规模裁员期间仍提交大量 H-1B 工作签证申请
+**💬 简介**: Oracle Files H-1B Visa Petitions Amid Mass Layoffs
 
-**📝 总结**: 377 分 | 206 条评论，引发争议
+**📝 总结**: 386 分 | 211 条评论
 
 **🔗 链接**: https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/
 
@@ -40,9 +40,9 @@
 
 📌 **F-15E jet shot down over Iran**
 
-**💬 简介**: 美军 F-15E 战斗机在伊朗上空被击落
+**💬 简介**: F-15E jet shot down over Iran
 
-**📝 总结**: 368 分 | 861 条评论，重大军事事件
+**📝 总结**: 370 分 | 871 条评论
 
 **🔗 链接**: https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran
 
@@ -50,39 +50,39 @@
 
 📌 **iNaturalist**
 
-**💬 简介**: 生物多样性观察记录平台，用户可拍照记录动植物
+**💬 简介**: iNaturalist
 
-**📝 总结**: 327 分 | 95 条评论，由加州科学院和《国家地理》支持
+**📝 总结**: 329 分 | 96 条评论
 
 **🔗 链接**: https://www.inaturalist.org/
 
 ---
 
-📌 **OpenClaw privilege escalation vulnerability**
-
-**💬 简介**: OpenClaw 权限提升漏洞（CVE-2026-33579）
-
-**📝 总结**: 238 分 | 156 条评论，安全漏洞披露
-
-**🔗 链接**: https://nvd.nist.gov/vuln/detail/CVE-2026-33579
-
----
-
 📌 **Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw**
 
-**💬 简介**: Anthropic 停止支持第三方测试工具使用 Claude 订阅额度
+**💬 简介**: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
 
-**📝 总结**: 225 分 | 226 条评论，改为按需付费
+**📝 总结**: 246 分 | 245 条评论
 
 **🔗 链接**: https://news.ycombinator.com/item?id=47633396
 
 ---
 
+📌 **OpenClaw privilege escalation vulnerability**
+
+**💬 简介**: OpenClaw privilege escalation vulnerability
+
+**📝 总结**: 245 分 | 157 条评论
+
+**🔗 链接**: https://nvd.nist.gov/vuln/detail/CVE-2026-33579
+
+---
+
 📌 **We replaced RAG with a virtual filesystem for our AI documentation assistant**
 
-**💬 简介**: 用虚拟文件系统替代 RAG 构建 AI 文档助手
+**💬 简介**: We replaced RAG with a virtual filesystem for our AI documentation assistant
 
-**📝 总结**: 221 分 | 97 条评论，AI 工程实践
+**📝 总结**: 226 分 | 97 条评论
 
 **🔗 链接**: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
 
@@ -90,21 +90,21 @@
 
 📌 **SSH certificates: the better SSH experience**
 
-**💬 简介**: SSH 证书——更优的 SSH 使用体验
+**💬 简介**: SSH certificates: the better SSH experience
 
-**📝 总结**: 213 分 | 91 条评论，安全运维技巧
+**📝 总结**: 214 分 | 91 条评论
 
 **🔗 链接**: https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/
 
 ---
 
-📌 **Iran strikes leave Amazon availability zones "hard down" in Bahrain and Dubai**
+📌 **The FAA’s flight restriction for drones is an attempt to criminalize filming ICE**
 
-**💬 简介**: 伊朗攻击导致亚马逊巴林和迪拜可用区"彻底宕机"
+**💬 简介**: The FAA’s flight restriction for drones is an attempt to criminalize filming ICE
 
-**📝 总结**: 145 分 | 64 条评论，地缘政治影响云服务
+**📝 总结**: 150 分 | 21 条评论
 
-**🔗 链接**: https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability
+**🔗 链接**: https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice
 
 ---
 
@@ -114,32 +114,58 @@
 
 ---
 
-📌 **dataelement/Clawith | v1.8.1**
+📦 正在检查 GitHub Stars 更新...
 
-**💬 简介**: AI Agent 协作框架，支持多种通信渠道
+📊 检查完成
+🎉 共 2 个项目有更新！
+📦 **熊哥 GitHub Stars 更新**（最近 7 天）
 
-**📝 总结**: 稳定性优化和安全加固；飞书可靠性修复；全新工具调用可视化（AnalysisCard）；新增文件管理工具；支持 Kubernetes 部署
+生成时间：2026-04-04 01:49:55 (北京时间)
 
-**🔗 链接**: https://github.com/dataelement/Clawith/releases
+🎉 共 2 个项目有更新！
+
+---
+
+### 🔥 dataelement/Clawith
+
+**📦 版本**: v1.8.1
+**名称**: v1.8.1
+**日期**: 2026-04-03
+
+**📝 更新内容**:
+   # v1.8.1 Release Notes
+   • > Released: 2026-04-03
+   • This is a stability and polish release built on top of v1.8.0-beta.3, covering security hardening,
+   • Feishu reliability fixes, a redesigned tool-call visualization, new file-management tools, and
+   • a first-class Kubernetes deployment option.
+   ---
+   ## Highlights
+   ### Redesigned Tool-Call Visualization (AnalysisCard)
 
 ---
 
-📌 **refinedev/refine | v5.0.12**
+### 🔥 refinedev/refine
 
-**💬 简介**: React 后台管理框架
+**📦 版本**: @refinedev/core@5.0.12
+**名称**: @refinedev/core@5.0.12
+**日期**: 2026-04-02
 
-**📝 总结**: 修复 useList/useTable 自定义字段丢失问题
-
-**🔗 链接**: https://github.com/refinedev/refine/releases
+**📝 更新内容**:
+   ### Patch Changes
+   -   [#7372](https://github.com/refinedev/refine/pull/7372) [`59c6470ca0ecff0588f749ef4530312e7537bfdd`](https://github.com/refinedev/refine/commit/59c6470ca0ecff0588f749ef4530312e7537bfdd) Thanks [@alicanerdurmaz](https://github.com/alicanerdurmaz)! - fix(core): preserve custom `getList` response fields in `useList` and `useTable` results.
+   • We had an edge case where custom fields returned from `getList` were available on `query.data` but d
 
 ---
+
+
+
 
 ## 📊 今日统计
 
 | 来源 | 数量 |
 |------|------|
 | 🔥 Hacker News | 10 条 |
-| 📦 GitHub Stars | 2 个项目有更新 |
+| 📦 GitHub Stars | 查看上方 |
 
 ---
 
