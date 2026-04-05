@@ -1,0 +1,173 @@
+# 📰 熊哥每日资讯 · 2026-04-05
+
+> 🐻 自动整理 | 更新时间：2026-04-05 01:59
+> ✅ 2026-04-05 已更新
+
+---
+
+## 🔥 Hacker News 热榜
+
+---
+
+📌 **Artemis II crew take “spectacular” image of Earth**
+
+**💬 简介**: Artemis II crew take “spectacular” image of Earth
+
+**📝 总结**: 947 分 | 319 条评论
+
+**🔗 链接**: https://www.bbc.com/news/articles/ce8jzr423p9o
+
+---
+
+📌 **Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw**
+
+**💬 简介**: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+
+**📝 总结**: 935 分 | 722 条评论
+
+**🔗 链接**: https://news.ycombinator.com/item?id=47633396
+
+---
+
+📌 **iNaturalist**
+
+**💬 简介**: iNaturalist
+
+**📝 总结**: 498 分 | 118 条评论
+
+**🔗 链接**: https://www.inaturalist.org/
+
+---
+
+📌 **OpenClaw privilege escalation vulnerability**
+
+**💬 简介**: OpenClaw privilege escalation vulnerability
+
+**📝 总结**: 483 分 | 222 条评论
+
+**🔗 链接**: https://nvd.nist.gov/vuln/detail/CVE-2026-33579
+
+---
+
+📌 **We replaced RAG with a virtual filesystem for our AI documentation assistant**
+
+**💬 简介**: We replaced RAG with a virtual filesystem for our AI documentation assistant
+
+**📝 总结**: 375 分 | 144 条评论
+
+**🔗 链接**: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+
+---
+
+📌 **Simple self-distillation improves code generation**
+
+**💬 简介**: Simple self-distillation improves code generation
+
+**📝 总结**: 368 分 | 112 条评论
+
+**🔗 链接**: https://arxiv.org/abs/2604.01193
+
+---
+
+📌 **Author of "Careless People" banned from saying anything negative about Meta**
+
+**💬 简介**: Author of "Careless People" banned from saying anything negative about Meta
+
+**📝 总结**: 352 分 | 248 条评论
+
+**🔗 链接**: https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf
+
+---
+
+📌 **Claude Code Found a Linux Vulnerability Hidden for 23 Years**
+
+**💬 简介**: Claude Code Found a Linux Vulnerability Hidden for 23 Years
+
+**📝 总结**: 240 分 | 149 条评论
+
+**🔗 链接**: https://mtlynch.io/claude-code-found-linux-vulnerability/
+
+---
+
+📌 **Run Linux containers on Android, no root required**
+
+**💬 简介**: Run Linux containers on Android, no root required
+
+**📝 总结**: 196 分 | 71 条评论
+
+**🔗 链接**: https://github.com/ExTV/Podroid
+
+---
+
+📌 **Herbie: Automatically improve imprecise floating point formulas**
+
+**💬 简介**: Herbie: Automatically improve imprecise floating point formulas
+
+**📝 总结**: 183 分 | 33 条评论
+
+**🔗 链接**: https://herbie.uwplse.org/doc/latest/tutorial.html
+
+---
+
+## 📦 GitHub Stars 更新
+
+> 💡 只展示最近 7 天有更新的项目
+
+---
+
+📦 正在检查 GitHub Stars 更新...
+
+📊 检查完成
+🎉 共 2 个项目有更新！
+📦 **熊哥 GitHub Stars 更新**（最近 7 天）
+
+生成时间：2026-04-04 17:59:54 (北京时间)
+
+🎉 共 2 个项目有更新！
+
+---
+
+### 🔥 dataelement/Clawith
+
+**📦 版本**: v1.8.1
+**名称**: v1.8.1
+**日期**: 2026-04-03
+
+**📝 更新内容**:
+   # v1.8.1 Release Notes
+   • > Released: 2026-04-03
+   • This is a stability and polish release built on top of v1.8.0-beta.3, covering security hardening,
+   • Feishu reliability fixes, a redesigned tool-call visualization, new file-management tools, and
+   • a first-class Kubernetes deployment option.
+   ---
+   ## Highlights
+   ### Redesigned Tool-Call Visualization (AnalysisCard)
+
+---
+
+### 🔥 refinedev/refine
+
+**📦 版本**: @refinedev/core@5.0.12
+**名称**: @refinedev/core@5.0.12
+**日期**: 2026-04-02
+
+**📝 更新内容**:
+   ### Patch Changes
+   -   [#7372](https://github.com/refinedev/refine/pull/7372) [`59c6470ca0ecff0588f749ef4530312e7537bfdd`](https://github.com/refinedev/refine/commit/59c6470ca0ecff0588f749ef4530312e7537bfdd) Thanks [@alicanerdurmaz](https://github.com/alicanerdurmaz)! - fix(core): preserve custom `getList` response fields in `useList` and `useTable` results.
+   • We had an edge case where custom fields returned from `getList` were available on `query.data` but d
+
+---
+
+
+
+
+## 📊 今日统计
+
+| 来源 | 数量 |
+|------|------|
+| 🔥 Hacker News | 10 条 |
+| 📦 GitHub Stars | 查看上方 |
+
+---
+
+*📅 明天 8:00 自动更新*
